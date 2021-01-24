@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "THIS THE LATEST PROJECT(EDITED)",
+      "details": "LETS SEE IF IT WORKS",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "jingalal",
+      "details": "asdasdasd",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "new proj now",
+      "details": "hello",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
